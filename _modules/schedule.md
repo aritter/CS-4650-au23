@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-Jan 9
+Aug 21
 : [Course Introduction](https://github.com/aritter/CS-7650-au23/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
