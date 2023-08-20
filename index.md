@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS 7650
+title: CS 4650
 nav_exclude: true
 seo:
   type: Course
@@ -17,13 +17,13 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-Although this is an in-person course, we plan to stream lectures using Zoom.  The link is available [here](https://gatech.zoom.us/j/99252718114).
+Although this is an in-person course, we plan to stream lectures using Zoom.  Please do not attend class in person if you are feeling sick.  The link is available [here](https://gatech.zoom.us/j/99252718114).
 
 - Location: Instructional Center 211
 - Time: MW 2:00 pm - 3:15 pm
-- [Piazza](https://piazza.com/gatech/spring2023/cs7650/) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/482255) (homework assignments, submission and grading)
-- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1JivbsuLLw5a1Fm6mY1oL_7eb0jumnUzkTNYV1RXMb1w/edit?usp=sharing)
+- [Piazza](https://piazza.com/gatech/fall2023/cs4650/) (announcements, questions, discussion)
+- [Gradescope](https://www.gradescope.com/courses/569792) (homework assignments, submission and grading)
+- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/18bebSK8INSUlMPV7kc7hW6wLVxWj6x3yr4QsHn8ssnY/edit#gid=0)
 
 {% for module in site.modules %}
 {{ module }}
