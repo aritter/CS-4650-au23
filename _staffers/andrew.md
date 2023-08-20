@@ -1,7 +1,7 @@
 ---
-name: Shuyan Lin
+name: Andrew Li
 role: Teaching Assistant
-email: slin915@gatech.edu
+email: ali403@gatech.edu
 website: 
 photo: 
 ---

@@ -1,7 +1,7 @@
 ---
-name: Raj Janardhan
+name: Ethan Mendes
 role: Teaching Assistant
-email: rjanardhan3@gatech.edu
+email: emendes3@gatech.edu
 website: 
 photo: 
 ---

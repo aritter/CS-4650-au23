@@ -35,11 +35,11 @@ Students are expected to attend lecture, and complete the required reading assin
 
 ## Prerequisites
 
-This is an advanced graduate course on Natural Language Processing.  We assume you have a strong programming background and have taken at least one prior course on AI or Machine Learning.  Modern NLP is heavily based on Machine Learning.  The course involves mathematical problem solving and programming exercises to provide hands-on experience with concepts in NLP.  To succeed, you need a strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
+This is an advanced course on Natural Language Processing.  Modern NLP is heavily based on Machine Learning.  The course involves mathematical problem solving and programming exercises to provide hands-on experience with concepts in NLP.  To succeed, you need a strong programming background, in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
 
 There will be a math background test (due in the 1st week) and a warmup programming assignment due shortly afterward.
 If you find these difficult, you should expect a lot of extra work and challenges to catch up – in that case we recommend waiting to take this class in a later semester, once you are better prepared.
-Please reach out to the course staff to discuss whether you have the right background to succeed in this course if there are any symbols or concepts on these assignments which you are unfamiliar with.
+Please reach out to the course staff to discuss whether you have the right background to succeed in this course, especially if there are any symbols or concepts on these assignments which you are unfamiliar with.
 
 (**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit Problem Set 0, which is due during the first week.  Please post a Piazza message to get the access code to access Gradescope.)
 
