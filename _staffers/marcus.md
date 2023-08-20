@@ -1,7 +1,7 @@
 ---
-name: Rucha Sathe
+name: Marcus Ma
 role: Teaching Assistant
-email: ruchasathe@gatech.edu
+email: mma81@gatech.edu
 website: 
 photo: 
 ---
