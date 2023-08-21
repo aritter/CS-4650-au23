@@ -31,7 +31,7 @@ We **highly** recommend signing up for [Colab Pro](https://colab.research.google
 
 ## Attendance
 
-Students are expected to attend lecture, and complete the required reading assingments.  We plan to set up Zoom, to accomidate students who prefer to attend class remotely due to health reasons.  Lectures will not be recorded.
+Students are expected to attend lecture, and complete the required reading assingments.
 
 ## Prerequisites
 

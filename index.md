@@ -17,8 +17,6 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-Although this is an in-person course, we plan to stream lectures using Zoom.  Please do not attend class in person if you are feeling sick.  The link is available [here](https://gatech.zoom.us/j/99252718114).
-
 - Location: Klaus Advanced Computing Building 2443
 - Time: MW 5:00 pm - 6:15 pm
 - [Piazza](https://piazza.com/gatech/fall2023/cs4650/) (announcements, questions, discussion)
