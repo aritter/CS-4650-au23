@@ -6,6 +6,10 @@ Aug 21
 : [Course Introduction](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Aug 23
+: [Machine Learning](https://github.com/aritter/CS-7650-au23/raw/master/slides/lec2-ml.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Aug 24
 : [Problem Set 0](https://github.com/aritter/CS-4650-au23/raw/master/slides/pset0.pdf) due
 
@@ -13,10 +17,6 @@ Sep 5
 : [Project 0](https://colab.research.google.com/drive/1wH7qgedf1C3MWBMIBpfAbW-ZpecyCrI5?usp=sharing) due
 
 <!---
-
-Jan 11
-: [Machine Learning](https://github.com/aritter/CS-7650-au23/raw/master/slides/lec2-ml.pdf)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 12
 : [Problem Set 0](https://github.com/aritter/CS-7650-au23/raw/master/slides/pset0.pdf) due
