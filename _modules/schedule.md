@@ -27,6 +27,9 @@ Sep 6
 Sep 19
 : Problem Set 1 Due
 
+Sep 28
+: [Project 1 Due](https://colab.research.google.com/drive/1Dm54FxwJn-UpX-oBcJeVdlCpA9OpulMX)
+
 <!---
 
 Feb 1
