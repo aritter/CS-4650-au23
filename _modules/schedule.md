@@ -28,6 +28,10 @@ Sep 13
 : [Sequence Models](https://aritter.github.io/CS-4650-au23/slides/lec4-seq1.pdf) 
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
+Sep 18
+: [Conditional Random Fields](https://aritter.github.io/CS-4650-au23/slides/lec5-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Sep 19
 : Problem Set 1 Due
 
@@ -35,13 +39,6 @@ Sep 28
 : [Project 1 Due](https://colab.research.google.com/drive/1Dm54FxwJn-UpX-oBcJeVdlCpA9OpulMX)
 
 <!---
-
-Feb 1
-: [Sequence Models](https://aritter.github.io/CS-4650-au23/slides/lec4-seq1.pdf) 
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
-
-Feb 2
-: [Project 1](https://colab.research.google.com/drive/1Ymi8FH7UGRykzLtps46zYBubfRx0TpPk?usp=sharing) due
 
 Feb 6
 : [Conditional Random Fields](https://aritter.github.io/CS-4650-au23/slides/lec5-seq2.pdf)
