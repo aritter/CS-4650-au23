@@ -51,14 +51,10 @@ Oct 18
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 23
-: [Statistical Machine Translation](https://aritter.github.io/CS-4650-au23/slides/lec10-mt1.pdf)
-  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+: [Machine Translatin, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-4650-au23/slides/lec11-seqseq2.pdf)
+  : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 <!---
-
-Mar 8
-: [Statistical Machine Translation](https://aritter.github.io/CS-4650-au23/slides/lec10-mt1.pdf)
-  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 13
 : [Encoder-Decoder Networks](https://aritter.github.io/CS-4650-au23/slides/lec11-seqseq2.pdf)
