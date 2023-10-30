@@ -51,18 +51,14 @@ Oct 18
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 23
-: [Machine Translatin, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-4650-au23/slides/lec11-seqseq2.pdf)
+: [Machine Translation, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-4650-au23/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Oct 30
+: [MT, Transformers](https://aritter.github.io/CS-4650-au23/slides/lec12-mt2.pdf)
+  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 <!---
-
-Mar 13
-: [Encoder-Decoder Networks](https://aritter.github.io/CS-4650-au23/slides/lec11-seqseq2.pdf)
-  : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
-Mar 15
-: [Neural Machine Translation, Transformers](https://aritter.github.io/CS-4650-au23/slides/lec12-mt2.pdf)
-  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Mar 16
 : [Project 2](https://colab.research.google.com/drive/15NcA-rM7XZGOcZyGVkaudol-HCqbJRVD?usp=sharing) due
