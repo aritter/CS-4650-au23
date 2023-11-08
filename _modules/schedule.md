@@ -67,7 +67,7 @@ Nov 8
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 Nov 22
-: Project 3 Due
+: <a href='https://colab.research.google.com/drive/1EQT4sZNsJ1Pp70QHXfwi1PCG2xjM9mrr?usp=sharing'>Project 3</a> Due
 
 <!---
 
