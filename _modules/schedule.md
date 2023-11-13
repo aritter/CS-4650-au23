@@ -66,6 +66,10 @@ Nov 8
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-4650-au23/slides/lec14-bart_gpt3.pdf)
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
+Nov 13
+: [Dialogue](https://aritter.github.io/CS-4650-au23/slides/lec16-dialogue.pdf)
+  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
+
 Nov 22
 : <a href='https://colab.research.google.com/drive/1EQT4sZNsJ1Pp70QHXfwi1PCG2xjM9mrr?usp=sharing'>Project 3</a> Due
 
@@ -77,10 +81,6 @@ Mar 29
 
 Mar 31
 : Problem Set 2 Due
-
-Apr 5
-: [Dialogue](https://aritter.github.io/CS-4650-au23/slides/lec16-dialogue.pdf)
-  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 April 12
 : [Virutal Guest lecture by Sebastian Gehrmann (Bloomberg)](https://sebastiangehrmann.github.io/) - 3:30-4:45pm
