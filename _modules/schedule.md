@@ -70,8 +70,18 @@ Nov 13
 : [Dialogue](https://aritter.github.io/CS-4650-au23/slides/lec16-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
+Nov 20
+: [Wrapup / QA / Ethics](https://aritter.github.io/CS-4650-au23/slides/lec18-qa_wrapup.pdf)
+
 Nov 22
 : <a href='https://colab.research.google.com/drive/1EQT4sZNsJ1Pp70QHXfwi1PCG2xjM9mrr?usp=sharing'>Project 3</a> Due
+
+Nov 27
+: [Virutal Guest lecture by Daniel Deutsch (Google Translate)](https://danieldeutsch.github.io/)
+
+Nov 29
+: [Virutal Guest lecture by Yi Luan (Google AI Language)](https://luanyi.github.io/)
+
 
 <!---
 
